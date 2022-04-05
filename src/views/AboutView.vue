@@ -1,9 +1,9 @@
 <template>
   <div class="about container">
-    <h1>This is an about page</h1>
+    <h2>This is an about page.</h2>
   </div>
 </template>
 
 <style>
-
+/* Add any component specific styles here */
 </style>

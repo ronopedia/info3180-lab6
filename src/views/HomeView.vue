@@ -2,7 +2,7 @@
 export default {
     data() {
         return {
-            message: "Hi Everyone! Welcome to VueJS"
+            message: "Hi Everyone! Welcome to VueJS Lab."
         };
     },
     
