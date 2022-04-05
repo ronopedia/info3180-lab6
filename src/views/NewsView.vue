@@ -11,7 +11,7 @@ export default {
 
 <template>
     <div class="news container">
-        <h2>News</h2>
+        <h1 class="text-center text-success fw-bold"> News </h1>
         <NewsList />
     </div>
 </template>
